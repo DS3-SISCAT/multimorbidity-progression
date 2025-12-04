@@ -1,8 +1,8 @@
 library(shiny)
 library(markdown)
 
-# Directori base on es troben les subcarpetes
-base_dir <- "./" #"C:/Projectes/008_MMP_Evolution/app/"
+# Base directory
+base_dir <- "./" 
 
 # Create a public path to access the files
 shiny::addResourcePath("networks", base_dir)
