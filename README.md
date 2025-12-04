@@ -20,6 +20,9 @@ The study includes:
 **Damià Valero-Bover**  
 Email: damiavalero@catsalut.cat
 Affiliation: Catalan Health Service (CatSalut)
+**Jordi Piera-Jiménez**
+Email: jpiera@catsalut.cat
+Affiliation: Catalan Health Service (CatSalut)
 
 ---
 
