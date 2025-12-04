@@ -1,0 +1,10 @@
+name: multimorbidity_disease_centred_networks
+title:
+username: dvalero
+account: dvalero
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15225437
+bundleId: 10790072
+url: https://dvalero.shinyapps.io/multimorbidity_disease_centred_networks/
+version: 1

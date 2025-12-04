@@ -1,0 +1,42 @@
+;Label;GLM;NNET;RF;XGB
+1;w;1;0,806243258;0,875822235;1
+2;Age;0,148994968;0,579606161;1;0,28746874
+3;N_Diseases;0,477321484;1;0,361015587;0,000811321
+4;w_previous;0,393116696;0,285420428;0,588141818;0,001319048
+5;Sex;0,177772162;0,207325156;0,399138987;0,001602968
+6;w_start;0,255003371;0,134472655;0,348468798;0,00065771
+7;YearsFrom_PrevDisease;0,007536169;0,146340171;0,426890303;0,001786465
+8;Substance-related disorders;0,006624743;NA;0,234585158;0,000804001
+9;YearsFrom_FirstDisease;0,015451973;NA;0,222193602;0,000878029
+10;Essential hypertension;0,004003515;NA;0,215501574;0,000502541
+11;Hypertension with complications and secondary hypertension;NA;0,194194208;NA;NA
+12;Diabetes mellitus without complication;0,007058905;NA;0,180171016;0,001466668
+13;Anxiety disorders;NA;NA;0,186783763;NA
+14;"Other nutritional; endocrine; and metabolic disorders";0,005544542;NA;0,166670955;0,000127825
+15;Cardiac dysrhythmias;NA;0,157209142;NA;NA
+16;Osteoporosis;0,015019433;0;0,121871614;0,000262074
+17;Osteoarthritis;0,008277621;NA;0,123586678;NA
+18;Thyroid disorders;0,006370493;NA;0,124900411;NA
+19;"Spondylosis; intervertebral disc disorders; other back problems";NA;NA;0,128490326;NA
+20;Asthma;NA;NA;0,126618676;NA
+21;Miscellaneous mental health disorders;NA;NA;0,126382742;NA
+22;Disorders of lipid metabolism;0,003534354;NA;0,118888442;NA
+23;Pulmonary heart disease;NA;0,121105664;NA;NA
+24;Chronic kidney disease;NA;0,103114391;NA;NA
+25;"Cancer of bronchus; lung";NA;0,074761603;NA;NA
+26;Secondary malignancies;NA;0,065030498;NA;NA
+27;Chronic obstructive pulmonary disease and bronchiectasis;NA;0,044422951;NA;NA
+28;Cancer of colon;NA;0,028979215;NA;NA
+29;Hyperplasia of prostate;0,013114637;NA;NA;0,000124678
+30;Cataract;0,01182464;NA;NA;NA
+31;Coronary atherosclerosis and other heart disease;NA;0,011630914;NA;NA
+32;Other upper respiratory disease;0,009672482;NA;NA;0,000171936
+33;Acute cerebrovascular disease;NA;0,006321435;NA;NA
+34;Other ear and sense organ disorders;0,005785177;NA;NA;NA
+35;Acute myocardial infarction;NA;0,004234559;NA;NA
+36;HIV infection;NA;0,001674467;NA;NA
+37;Digestive congenital anomalies;NA;NA;NA;0,000159252
+38;"Residual codes; unclassified";NA;NA;NA;0,000136542
+39;Personality disorders;NA;NA;NA;0,0001229
+40;"Headache; including migraine";NA;NA;NA;0,000116534
+41;Menopausal disorders;NA;NA;NA;0,000114705
