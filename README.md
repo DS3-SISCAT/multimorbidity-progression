@@ -21,6 +21,10 @@ The study includes:
 Email: damiavalero@catsalut.cat
 Affiliation: Catalan Health Service (CatSalut)
 
+**Jordi Piera-Jiménez**
+Email: jpiera@catsalut.cat
+Affiliation: Catalan Health Service (CatSalut)
+
 ---
 
 ## Software and Dependencies
