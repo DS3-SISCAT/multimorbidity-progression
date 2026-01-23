@@ -53,7 +53,6 @@ Key packages:
 - `visNetwork` for interactive disease network visualization  
 - `ggplot2`, `cowplot` for figures and graphical outputs  
 
-Package versions are listed in `/code/session_info.txt`.
 
 ---
 
