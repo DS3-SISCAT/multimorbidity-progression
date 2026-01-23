@@ -33,7 +33,7 @@ These applications are intended as exploratory and hypothesis-generating tools t
 
 ## Contact
 
-**Damià Valero-Bover**  
+**Damià Valero-Bover**
 Email: damiavalero@catsalut.cat
 Affiliation: Catalan Health Service (CatSalut)
 
