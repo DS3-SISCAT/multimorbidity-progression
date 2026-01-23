@@ -19,13 +19,13 @@ The study includes:
 
 To facilitate interactive exploration of the disease co-occurrence networks presented in the manuscript, we provide two complementary Shiny applications. These tools allow users to inspect network structure, node and edge attributes, and temporal patterns underlying multimorbidity progression.
 
+- **Global disease network**  
+  Interactive visualization of the overall disease co-occurrence network, providing a population-level view of multimorbidity structure and dominant disease trajectories. This application allows users to dynamically configure how the network is displayed, including the number of primary and secondary connections shown, enabling customised exploration of disease associations and network complexity.  
+  https://dvalero.shinyapps.io/multimorbidity_disease_network
+  
 - **Disease-centred networks**  
   Interactive exploration of disease-centred directed networks, each focused on one of the most prevalent chronic conditions. Users can examine secondary and tertiary conditions, edge directionality (temporal ordering), and whether associations predominantly occur before or after transition to high multimorbidity burden (AMG ≥ P80).  
   https://dvalero.shinyapps.io/multimorbidity_disease_centred_networks
-
-- **Global disease network**  
-  Interactive visualization of the overall disease co-occurrence network, summarising the most prevalent and strongest associations across the population. This view provides a population-level perspective of multimorbidity structure and dominant disease trajectories.  
-  https://dvalero.shinyapps.io/multimorbidity_disease_network
 
 These applications are intended as exploratory and hypothesis-generating tools that complement the static figures included in the manuscript and supplementary materials.
 
