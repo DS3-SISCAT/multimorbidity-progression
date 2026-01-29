@@ -1,0 +1,12 @@
+title: Multimorbidity disease network explorer
+description: >
+  Interactive exploration of disease co-occurrence networks supporting the study
+  "Population-health analysis of the progress of chronic disease burden over a
+  10-year period in a regional cohort of 5.5 million adults living in Catalonia".
+
+theme: jekyll-theme-minimal
+
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
