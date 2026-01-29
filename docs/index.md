@@ -1,3 +1,8 @@
+---
+layout: default
+title: Network explorer
+---
+
 ## Network explorer
 
 To facilitate interactive exploration of the disease co-occurrence networks presented in the manuscript, we provide two complementary Shiny applications. These tools allow users to inspect network structure, node and edge attributes, and temporal patterns underlying multimorbidity progression.
