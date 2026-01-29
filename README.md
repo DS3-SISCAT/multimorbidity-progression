@@ -29,6 +29,9 @@ To facilitate interactive exploration of the disease co-occurrence networks pres
 
 These applications are intended as exploratory and hypothesis-generating tools that complement the static figures included in the manuscript and supplementary materials.
 
+⚠️ *Note:* The interactive web application is provided as a research exploration tool and may change over time.  
+This GitHub repository serves as the stable entry point referenced in the manuscript.
+
 ---
 
 ## Contact
