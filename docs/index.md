@@ -9,11 +9,11 @@ To facilitate interactive exploration of the disease co-occurrence networks pres
 
 - **Global disease network**  
   An interactive visualisation of the overall disease co-occurrence network, providing a population-level view of multimorbidity structure and dominant disease trajectories. Users can dynamically configure how the network is displayed, including the number of primary and secondary connections shown, enabling customised exploration of disease associations and network complexity.  
-  👉 [Open the global disease network explorer](https://dvalero.shinyapps.io/multimorbidity_disease_network)
+[Open the global disease network explorer](https://dvalero.shinyapps.io/multimorbidity_disease_network)
 
 - **Disease-centred networks**  
   Interactive exploration of disease-centred directed networks, each focused on one of the most prevalent chronic conditions. Users can examine secondary and tertiary conditions, edge directionality (temporal ordering), and whether associations predominantly occur before or after transition to high multimorbidity burden (AMG ≥ P80).  
-  👉 [Open the disease-centred network explorer](https://dvalero.shinyapps.io/multimorbidity_disease_centred_networks)
+[Open the disease-centred network explorer](https://dvalero.shinyapps.io/multimorbidity_disease_centred_networks)
 
 
 These applications are intended as exploratory and hypothesis-generating tools that complement the static figures included in the manuscript and supplementary materials.
